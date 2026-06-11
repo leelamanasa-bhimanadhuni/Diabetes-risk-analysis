@@ -1,27 +1,27 @@
-🩺 **Diabetes Risk Analysis**
+## 🩺Diabetes Risk Analysis
 
 
 A data analysis project exploring risk factors for diabetes using the Pima Indians Diabetes Dataset. This project demonstrates end-to-end data analysis — from data cleaning to visualization and insights — built as part of my Data Analyst portfolio.
 
-**📌 Project Overview**
+## 📌 Project Overview
 
 
 This notebook analyzes health metrics from 768 female patients to identify patterns and risk factors associated with diabetes. The goal is to extract meaningful insights using Python-based data analysis tools.
 
-📂 **Dataset**
+## 📂 Dataset
 
 
-Source: Pima Indians Diabetes Dataset (UCI Machine Learning Repository)
+**Source**: Pima Indians Diabetes Dataset (UCI Machine Learning Repository)
 
-File: diabetes.csv
+**File**: diabetes.csv
 
-Records: 768 rows, 9 columns
+**Records**: 768 rows, 9 columns
 
-Target Variable: Outcome (1 = Diabetic, 0 = Non-Diabetic)
+**Target Variable**: Outcome (1 = Diabetic, 0 = Non-Diabetic)
 
 
 
-**Features:**
+## Features:
 
 
 
@@ -45,19 +45,19 @@ Outcome — Class variable (0 = Non-Diabetic, 1 = Diabetic)
 
 
 
-**🛠️ Tools & Technologies**
+## 🛠️ Tools & Technologies
 
 
 
-Language: Python 3
+**Language**: Python 3
 
-Libraries: Pandas, NumPy, Matplotlib, Seaborn
+**Libraries**: Pandas, NumPy, Matplotlib, Seaborn
 
-Environment: Jupyter Notebook
+**Environment**: Jupyter Notebook
 
 
 
-**📊 Analysis Performed**
+## 📊 Analysis Performed
 
 
 
@@ -75,7 +75,7 @@ Environment: Jupyter Notebook
 
 
 
-**🔍 Key Insights**
+## 🔍 Key Insights
 
 
 
